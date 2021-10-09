@@ -1,0 +1,22 @@
+Hey, Whats going on??
+ 
+Lets see,
+
+      /* HELLO, I am JAVA   */   
+
+          class Ana
+      {
+        public static void main(String[] args)
+         {
+            System.out.println("Hey Python where r u, I miss u nah.... ");
+         }
+      }
+
+          
+
+       #Python here
+
+
+  my_string = 'Hey java , Do u like me?'
+
+   print(my_string)
